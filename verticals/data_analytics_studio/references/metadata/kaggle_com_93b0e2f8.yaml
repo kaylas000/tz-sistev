@@ -1,0 +1,16 @@
+source: kaggle.com
+url: https://kaggle.com/example/kaggle_com_data/004
+type: data
+style: modern
+industry: data
+screenshot: screenshots/kaggle_com_data_004.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: split-hero + sections + newsletter
+takeaway: Тёмная тема с одним неоновым акцентом
+scraped_at: '2026-10-05'

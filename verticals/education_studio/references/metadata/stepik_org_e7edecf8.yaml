@@ -1,0 +1,16 @@
+source: stepik.org
+url: https://stepik.org/example/stepik_org_education/007
+type: education
+style: modern
+industry: education
+screenshot: screenshots/stepik_org_education_007.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

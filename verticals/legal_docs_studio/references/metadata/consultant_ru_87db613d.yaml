@@ -1,0 +1,16 @@
+source: consultant.ru
+url: https://consultant.ru/example/consultant_ru_legal/012
+type: legal
+style: modern
+industry: legal
+screenshot: screenshots/consultant_ru_legal_012.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

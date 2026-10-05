@@ -1,0 +1,16 @@
+source: github.com
+url: https://github.com/example/github_com_data/002
+type: data
+style: modern
+industry: data
+screenshot: screenshots/github_com_data_002.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + features + pricing + cta
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

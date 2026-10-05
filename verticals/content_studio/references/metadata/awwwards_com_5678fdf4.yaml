@@ -1,0 +1,16 @@
+source: awwwards.com
+url: https://awwwards.com/example/awwwards_com_content/002
+type: site
+style: minimalism
+industry: content
+screenshot: screenshots/awwwards_com_content_002.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: nav + hero + testimonials + faq
+takeaway: Линейка продуктов карточками с ховер-подъёмом
+scraped_at: '2026-10-05'

@@ -1,0 +1,16 @@
+source: lapa.ninja
+url: https://lapa.ninja/example/lapa_ninja_saas/014
+type: landing
+style: modern
+industry: saas
+screenshot: screenshots/lapa_ninja_saas_014.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: nav + hero + testimonials + faq
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'

@@ -1,0 +1,16 @@
+source: lapa.ninja
+url: https://lapa.ninja/example/lapa_ninja_saas/018
+type: landing
+style: modern
+industry: saas
+screenshot: screenshots/lapa_ninja_saas_018.png
+colors:
+  primary: '#1e3a5f'
+  accent: '#f59e0b'
+  background: '#f8fafc'
+fonts:
+  heading: Georgia
+  body: system-ui
+layout: nav + hero + testimonials + faq
+takeaway: Линейка продуктов карточками с ховер-подъёмом
+scraped_at: '2026-10-05'

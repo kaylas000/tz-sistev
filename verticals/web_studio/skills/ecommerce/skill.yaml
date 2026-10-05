@@ -1,0 +1,8 @@
+name: ecommerce
+title: Ecommerce
+artifact: html
+description: Генерация веб-страницы типа «Ecommerce» по брифу с опорой на референсы каталогов.
+required_parts: ['hero', 'product cards', 'cart cta']
+brief_required: [goal, audience, deliverable]
+sandbox_timeout: 15
+templates: [planner, coder, verifier, fixer]

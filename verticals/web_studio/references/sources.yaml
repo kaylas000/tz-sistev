@@ -1,0 +1,46 @@
+generated_at: '2026-10-05'
+sources:
+  lapa:
+    url: https://lapa.ninja
+    kind: landing
+    filters:
+    - category
+    categories:
+    - saas
+    - crypto
+    - education
+  land-book:
+    url: https://land-book.com
+    kind: landing
+    filters:
+    - color
+    - type
+    - industry
+  awwwards:
+    url: https://www.awwwards.com
+    kind: site
+    filters:
+    - technology
+    - style
+    - score
+  siteinspire:
+    url: https://www.siteinspire.com
+    kind: site
+    filters:
+    - style
+    - cms
+  minimal:
+    url: https://minimal.gallery
+    kind: site
+    filters:
+    - industry
+  godly:
+    url: https://www.godly.website
+    kind: site
+    filters:
+    - animation
+  brutalistwebsites:
+    url: https://brutalistwebsites.com
+    kind: site
+    filters:
+    - type

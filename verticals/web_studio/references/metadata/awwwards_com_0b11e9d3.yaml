@@ -1,0 +1,16 @@
+source: awwwards.com
+url: https://awwwards.com/example/awwwards_com_general/011
+type: site
+style: minimal
+industry: general
+screenshot: screenshots/awwwards_com_general_011.png
+colors:
+  primary: '#1e3a5f'
+  accent: '#f59e0b'
+  background: '#f8fafc'
+fonts:
+  heading: Georgia
+  body: system-ui
+layout: hero + features + pricing + cta
+takeaway: Линейка продуктов карточками с ховер-подъёмом
+scraped_at: '2026-10-05'

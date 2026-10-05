@@ -1,0 +1,8 @@
+name: portfolio
+title: Portfolio
+artifact: html
+description: Генерация веб-страницы типа «Portfolio» по брифу с опорой на референсы каталогов.
+required_parts: ['hero', 'gallery', 'contacts']
+brief_required: [goal, audience, deliverable]
+sandbox_timeout: 15
+templates: [planner, coder, verifier, fixer]

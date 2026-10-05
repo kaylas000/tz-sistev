@@ -1,0 +1,16 @@
+source: behance.net
+url: https://behance.net/example/behance_net_content/016
+type: concept
+style: modern
+industry: content
+screenshot: screenshots/behance_net_content_016.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: nav + hero + testimonials + faq
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

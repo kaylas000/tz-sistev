@@ -1,0 +1,16 @@
+source: behance.net
+url: https://behance.net/example/behance_net_content/005
+type: concept
+style: modern
+industry: content
+screenshot: screenshots/behance_net_content_005.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'

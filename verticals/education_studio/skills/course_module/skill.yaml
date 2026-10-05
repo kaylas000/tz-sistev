@@ -1,0 +1,6 @@
+name: course_module
+title: Course Module
+artifact: markdown
+required_parts: []
+brief_required: [goal, audience, deliverable]
+templates: [planner, coder, verifier, fixer]

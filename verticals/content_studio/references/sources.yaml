@@ -1,0 +1,15 @@
+generated_at: '2026-10-05'
+sources:
+  awwwards:
+    url: https://www.awwwards.com
+    kind: site
+    filters:
+    - technology
+    - style
+    - score
+  behance:
+    url: https://www.behance.net
+    kind: concept
+    filters:
+    - query
+    - industry

@@ -1,0 +1,16 @@
+source: minimal.gallery
+url: https://minimal.gallery/example/minimal_gallery_general/003
+type: site
+style: minimal
+industry: general
+screenshot: screenshots/minimal_gallery_general_003.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: hero + features + pricing + cta
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

@@ -1,0 +1,16 @@
+source: base.garant.ru
+url: https://base.garant.ru/example/base_garant_ru_legal/004
+type: legal
+style: modern
+industry: legal
+screenshot: screenshots/base_garant_ru_legal_004.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: nav + hero + testimonials + faq
+takeaway: Тёмная тема с одним неоновым акцентом
+scraped_at: '2026-10-05'

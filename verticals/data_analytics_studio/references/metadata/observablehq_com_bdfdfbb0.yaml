@@ -1,0 +1,16 @@
+source: observablehq.com
+url: https://observablehq.com/example/observablehq_com_data/003
+type: data
+style: modern
+industry: data
+screenshot: screenshots/observablehq_com_data_003.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: split-hero + sections + newsletter
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

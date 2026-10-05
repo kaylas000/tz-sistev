@@ -1,0 +1,16 @@
+source: observablehq.com
+url: https://observablehq.com/example/observablehq_com_data/007
+type: data
+style: modern
+industry: data
+screenshot: screenshots/observablehq_com_data_007.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: nav + hero + testimonials + faq
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

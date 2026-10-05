@@ -1,0 +1,16 @@
+source: github.com
+url: https://github.com/example/github_com_data/003
+type: data
+style: modern
+industry: data
+screenshot: screenshots/github_com_data_003.png
+colors:
+  primary: '#1e3a5f'
+  accent: '#f59e0b'
+  background: '#f8fafc'
+fonts:
+  heading: Georgia
+  body: system-ui
+layout: nav + hero + testimonials + faq
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

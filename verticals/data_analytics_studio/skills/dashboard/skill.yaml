@@ -1,0 +1,6 @@
+name: dashboard
+title: Dashboard
+artifact: python
+required_parts: []
+brief_required: [goal, audience, deliverable]
+templates: [planner, coder, verifier, fixer]

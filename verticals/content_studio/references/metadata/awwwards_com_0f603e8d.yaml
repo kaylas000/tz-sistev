@@ -1,0 +1,16 @@
+source: awwwards.com
+url: https://awwwards.com/example/awwwards_com_content/019
+type: site
+style: minimalism
+industry: content
+screenshot: screenshots/awwwards_com_content_019.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: hero + features + pricing + cta
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

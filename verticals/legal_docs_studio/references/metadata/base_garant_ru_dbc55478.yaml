@@ -1,0 +1,16 @@
+source: base.garant.ru
+url: https://base.garant.ru/example/base_garant_ru_legal/015
+type: legal
+style: modern
+industry: legal
+screenshot: screenshots/base_garant_ru_legal_015.png
+colors:
+  primary: '#1e3a5f'
+  accent: '#f59e0b'
+  background: '#f8fafc'
+fonts:
+  heading: Georgia
+  body: system-ui
+layout: split-hero + sections + newsletter
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

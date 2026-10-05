@@ -1,0 +1,16 @@
+source: awwwards.com
+url: https://awwwards.com/example/awwwards_com_content/017
+type: site
+style: minimalism
+industry: content
+screenshot: screenshots/awwwards_com_content_017.png
+colors:
+  primary: '#1e3a5f'
+  accent: '#f59e0b'
+  background: '#f8fafc'
+fonts:
+  heading: Georgia
+  body: system-ui
+layout: hero + gallery + footer
+takeaway: Тёмная тема с одним неоновым акцентом
+scraped_at: '2026-10-05'

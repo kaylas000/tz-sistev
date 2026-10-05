@@ -1,0 +1,8 @@
+generated_at: '2026-10-05'
+sources:
+  consultant:
+    url: http://www.consultant.ru
+    kind: legal
+  garant:
+    url: https://base.garant.ru
+    kind: legal

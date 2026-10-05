@@ -1,0 +1,16 @@
+source: lapa.ninja
+url: https://lapa.ninja/example/lapa_ninja_saas/011
+type: landing
+style: modern
+industry: saas
+screenshot: screenshots/lapa_ninja_saas_011.png
+colors:
+  primary: '#1e3a5f'
+  accent: '#f59e0b'
+  background: '#f8fafc'
+fonts:
+  heading: Georgia
+  body: system-ui
+layout: hero + features + pricing + cta
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

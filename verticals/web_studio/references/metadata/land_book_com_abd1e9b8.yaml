@@ -1,0 +1,16 @@
+source: land-book.com
+url: https://land-book.com/example/land_book_com_general/006
+type: landing
+style: modern
+industry: general
+screenshot: screenshots/land_book_com_general_006.png
+colors:
+  primary: '#1e3a5f'
+  accent: '#f59e0b'
+  background: '#f8fafc'
+fonts:
+  heading: Georgia
+  body: system-ui
+layout: hero + features + pricing + cta
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'
