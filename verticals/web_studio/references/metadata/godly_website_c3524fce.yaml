@@ -1,0 +1,16 @@
+source: godly.website
+url: https://godly.website/example/godly_website_general/005
+type: site
+style: minimal
+industry: general
+screenshot: screenshots/godly_website_general_005.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: hero + gallery + footer
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

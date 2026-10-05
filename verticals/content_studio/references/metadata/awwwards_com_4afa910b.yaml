@@ -1,0 +1,16 @@
+source: awwwards.com
+url: https://awwwards.com/example/awwwards_com_content/020
+type: site
+style: minimalism
+industry: content
+screenshot: screenshots/awwwards_com_content_020.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

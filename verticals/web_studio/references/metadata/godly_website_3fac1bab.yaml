@@ -1,0 +1,16 @@
+source: godly.website
+url: https://godly.website/example/godly_website_general/003
+type: site
+style: minimal
+industry: general
+screenshot: screenshots/godly_website_general_003.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: hero + catalog grid + cta
+takeaway: Линейка продуктов карточками с ховер-подъёмом
+scraped_at: '2026-10-05'

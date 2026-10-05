@@ -1,0 +1,16 @@
+source: kaggle.com
+url: https://kaggle.com/example/kaggle_com_data/002
+type: data
+style: modern
+industry: data
+screenshot: screenshots/kaggle_com_data_002.png
+colors:
+  primary: '#1e3a5f'
+  accent: '#f59e0b'
+  background: '#f8fafc'
+fonts:
+  heading: Georgia
+  body: system-ui
+layout: hero + gallery + footer
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

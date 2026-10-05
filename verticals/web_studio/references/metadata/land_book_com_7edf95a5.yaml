@@ -1,0 +1,16 @@
+source: land-book.com
+url: https://land-book.com/example/land_book_com_general/010
+type: landing
+style: modern
+industry: general
+screenshot: screenshots/land_book_com_general_010.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: nav + hero + testimonials + faq
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

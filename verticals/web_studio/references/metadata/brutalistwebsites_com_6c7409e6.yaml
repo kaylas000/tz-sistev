@@ -1,0 +1,16 @@
+source: brutalistwebsites.com
+url: https://brutalistwebsites.com/example/brutalistwebsites_com_general/008
+type: site
+style: minimalism
+industry: general
+screenshot: screenshots/brutalistwebsites_com_general_008.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: hero + features + pricing + cta
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

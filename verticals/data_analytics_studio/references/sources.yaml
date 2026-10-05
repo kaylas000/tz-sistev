@@ -1,0 +1,11 @@
+generated_at: '2026-10-05'
+sources:
+  github:
+    url: https://github.com
+    kind: data
+  kaggle:
+    url: https://www.kaggle.com
+    kind: data
+  observable:
+    url: https://observablehq.com
+    kind: data

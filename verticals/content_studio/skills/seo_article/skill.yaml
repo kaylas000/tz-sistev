@@ -1,0 +1,6 @@
+name: seo_article
+title: Seo Article
+artifact: markdown
+required_parts: []
+brief_required: [goal, audience, deliverable]
+templates: [planner, coder, verifier, fixer]

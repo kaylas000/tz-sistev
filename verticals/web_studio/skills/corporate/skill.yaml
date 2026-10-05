@@ -1,0 +1,8 @@
+name: corporate
+title: Corporate
+artifact: html
+description: Генерация веб-страницы типа «Corporate» по брифу с опорой на референсы каталогов.
+required_parts: ['hero', 'services', 'about', 'contacts']
+brief_required: [goal, audience, deliverable]
+sandbox_timeout: 15
+templates: [planner, coder, verifier, fixer]

@@ -1,0 +1,16 @@
+source: consultant.ru
+url: https://consultant.ru/example/consultant_ru_legal/014
+type: legal
+style: modern
+industry: legal
+screenshot: screenshots/consultant_ru_legal_014.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: split-hero + sections + newsletter
+takeaway: Тёмная тема с одним неоновым акцентом
+scraped_at: '2026-10-05'

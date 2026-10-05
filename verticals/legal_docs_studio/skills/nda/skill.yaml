@@ -1,0 +1,6 @@
+name: nda
+title: Nda
+artifact: markdown
+required_parts: []
+brief_required: [goal, audience, deliverable]
+templates: [planner, coder, verifier, fixer]

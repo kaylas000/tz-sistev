@@ -1,0 +1,16 @@
+source: stepik.org
+url: https://stepik.org/example/stepik_org_education/004
+type: education
+style: modern
+industry: education
+screenshot: screenshots/stepik_org_education_004.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: split-hero + sections + newsletter
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'

@@ -1,0 +1,16 @@
+source: lapa.ninja
+url: https://lapa.ninja/example/lapa_ninja_saas/002
+type: landing
+style: modern
+industry: saas
+screenshot: screenshots/lapa_ninja_saas_002.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: split-hero + sections + newsletter
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'

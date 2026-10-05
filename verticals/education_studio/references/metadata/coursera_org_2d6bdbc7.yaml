@@ -1,0 +1,16 @@
+source: coursera.org
+url: https://coursera.org/example/coursera_org_education/002
+type: education
+style: modern
+industry: education
+screenshot: screenshots/coursera_org_education_002.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

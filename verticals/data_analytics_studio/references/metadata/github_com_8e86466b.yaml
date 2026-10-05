@@ -1,0 +1,16 @@
+source: github.com
+url: https://github.com/example/github_com_data/006
+type: data
+style: modern
+industry: data
+screenshot: screenshots/github_com_data_006.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: hero + catalog grid + cta
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

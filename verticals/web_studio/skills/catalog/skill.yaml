@@ -1,0 +1,8 @@
+name: catalog
+title: Catalog
+artifact: html
+description: Генерация веб-страницы типа «Catalog» по брифу с опорой на референсы каталогов.
+required_parts: ['hero', 'catalog grid', 'cta']
+brief_required: [goal, audience, deliverable]
+sandbox_timeout: 15
+templates: [planner, coder, verifier, fixer]

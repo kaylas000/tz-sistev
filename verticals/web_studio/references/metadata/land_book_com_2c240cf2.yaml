@@ -1,0 +1,16 @@
+source: land-book.com
+url: https://land-book.com/example/land_book_com_general/015
+type: landing
+style: modern
+industry: general
+screenshot: screenshots/land_book_com_general_015.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'

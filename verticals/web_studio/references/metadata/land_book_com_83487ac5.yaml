@@ -1,0 +1,16 @@
+source: land-book.com
+url: https://land-book.com/example/land_book_com_general/016
+type: landing
+style: modern
+industry: general
+screenshot: screenshots/land_book_com_general_016.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: nav + hero + testimonials + faq
+takeaway: Линейка продуктов карточками с ховер-подъёмом
+scraped_at: '2026-10-05'

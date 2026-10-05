@@ -1,0 +1,16 @@
+source: kaggle.com
+url: https://kaggle.com/example/kaggle_com_data/006
+type: data
+style: modern
+industry: data
+screenshot: screenshots/kaggle_com_data_006.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: nav + hero + testimonials + faq
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

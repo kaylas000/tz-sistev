@@ -1,0 +1,16 @@
+source: brutalistwebsites.com
+url: https://brutalistwebsites.com/example/brutalistwebsites_com_general/002
+type: site
+style: minimalism
+industry: general
+screenshot: screenshots/brutalistwebsites_com_general_002.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: nav + hero + testimonials + faq
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

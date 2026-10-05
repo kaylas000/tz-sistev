@@ -1,0 +1,16 @@
+source: lapa.ninja
+url: https://lapa.ninja/example/lapa_ninja_saas/012
+type: landing
+style: modern
+industry: saas
+screenshot: screenshots/lapa_ninja_saas_012.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

@@ -1,0 +1,16 @@
+source: consultant.ru
+url: https://consultant.ru/example/consultant_ru_legal/001
+type: legal
+style: modern
+industry: legal
+screenshot: screenshots/consultant_ru_legal_001.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: hero + catalog grid + cta
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

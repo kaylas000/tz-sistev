@@ -1,0 +1,16 @@
+source: kaggle.com
+url: https://kaggle.com/example/kaggle_com_data/008
+type: data
+style: modern
+industry: data
+screenshot: screenshots/kaggle_com_data_008.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + gallery + footer
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

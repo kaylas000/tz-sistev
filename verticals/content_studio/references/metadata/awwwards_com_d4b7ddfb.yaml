@@ -1,0 +1,16 @@
+source: awwwards.com
+url: https://awwwards.com/example/awwwards_com_content/025
+type: site
+style: minimalism
+industry: content
+screenshot: screenshots/awwwards_com_content_025.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'

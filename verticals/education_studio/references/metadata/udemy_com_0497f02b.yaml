@@ -1,0 +1,16 @@
+source: udemy.com
+url: https://udemy.com/example/udemy_com_education/003
+type: education
+style: modern
+industry: education
+screenshot: screenshots/udemy_com_education_003.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + gallery + footer
+takeaway: Много воздуха, крупная типографика заголовков
+scraped_at: '2026-10-05'

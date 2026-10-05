@@ -1,0 +1,6 @@
+name: lesson
+title: Lesson
+artifact: markdown
+required_parts: []
+brief_required: [goal, audience, deliverable]
+templates: [planner, coder, verifier, fixer]

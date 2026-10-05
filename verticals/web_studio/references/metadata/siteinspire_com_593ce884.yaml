@@ -1,0 +1,16 @@
+source: siteinspire.com
+url: https://siteinspire.com/example/siteinspire_com_general/007
+type: site
+style: minimal
+industry: general
+screenshot: screenshots/siteinspire_com_general_007.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

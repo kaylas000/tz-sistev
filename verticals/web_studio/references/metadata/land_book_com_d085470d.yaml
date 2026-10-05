@@ -1,0 +1,16 @@
+source: land-book.com
+url: https://land-book.com/example/land_book_com_general/018
+type: landing
+style: modern
+industry: general
+screenshot: screenshots/land_book_com_general_018.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: hero + features + pricing + cta
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

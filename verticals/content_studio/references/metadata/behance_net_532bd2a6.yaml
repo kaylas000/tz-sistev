@@ -1,0 +1,16 @@
+source: behance.net
+url: https://behance.net/example/behance_net_content/004
+type: concept
+style: modern
+industry: content
+screenshot: screenshots/behance_net_content_004.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: hero + gallery + footer
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'

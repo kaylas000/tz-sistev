@@ -1,0 +1,11 @@
+generated_at: '2026-10-05'
+sources:
+  coursera:
+    url: https://www.coursera.org
+    kind: education
+  stepik:
+    url: https://stepik.org
+    kind: education
+  udemy:
+    url: https://www.udemy.com
+    kind: education

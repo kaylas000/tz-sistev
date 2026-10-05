@@ -1,0 +1,16 @@
+source: behance.net
+url: https://behance.net/example/behance_net_content/008
+type: concept
+style: modern
+industry: content
+screenshot: screenshots/behance_net_content_008.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: split-hero + sections + newsletter
+takeaway: Социальное доказательство сразу под hero
+scraped_at: '2026-10-05'

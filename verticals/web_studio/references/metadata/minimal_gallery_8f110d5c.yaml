@@ -1,0 +1,16 @@
+source: minimal.gallery
+url: https://minimal.gallery/example/minimal_gallery_general/010
+type: site
+style: minimal
+industry: general
+screenshot: screenshots/minimal_gallery_general_010.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

@@ -1,0 +1,16 @@
+source: land-book.com
+url: https://land-book.com/example/land_book_com_general/009
+type: landing
+style: modern
+industry: general
+screenshot: screenshots/land_book_com_general_009.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: split-hero + sections + newsletter
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

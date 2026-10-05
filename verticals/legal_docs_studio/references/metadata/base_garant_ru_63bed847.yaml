@@ -1,0 +1,16 @@
+source: base.garant.ru
+url: https://base.garant.ru/example/base_garant_ru_legal/001
+type: legal
+style: modern
+industry: legal
+screenshot: screenshots/base_garant_ru_legal_001.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: hero + gallery + footer
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

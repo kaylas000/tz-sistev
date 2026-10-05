@@ -1,0 +1,16 @@
+source: coursera.org
+url: https://coursera.org/example/coursera_org_education/007
+type: education
+style: modern
+industry: education
+screenshot: screenshots/coursera_org_education_007.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + features + pricing + cta
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'

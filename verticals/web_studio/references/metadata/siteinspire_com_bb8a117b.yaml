@@ -1,0 +1,16 @@
+source: siteinspire.com
+url: https://siteinspire.com/example/siteinspire_com_general/012
+type: site
+style: minimal
+industry: general
+screenshot: screenshots/siteinspire_com_general_012.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: split-hero + sections + newsletter
+takeaway: Тёмная тема с одним неоновым акцентом
+scraped_at: '2026-10-05'

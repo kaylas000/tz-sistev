@@ -1,0 +1,16 @@
+source: awwwards.com
+url: https://awwwards.com/example/awwwards_com_general/003
+type: site
+style: minimal
+industry: general
+screenshot: screenshots/awwwards_com_general_003.png
+colors:
+  primary: '#18181b'
+  accent: '#a855f7'
+  background: '#09090b'
+fonts:
+  heading: Unbounded
+  body: Inter
+layout: hero + gallery + footer
+takeaway: Чёткая иерархия, один CTA на экран
+scraped_at: '2026-10-05'

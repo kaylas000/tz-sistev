@@ -1,0 +1,16 @@
+source: awwwards.com
+url: https://awwwards.com/example/awwwards_com_content/001
+type: site
+style: minimalism
+industry: content
+screenshot: screenshots/awwwards_com_content_001.png
+colors:
+  primary: '#111111'
+  accent: '#22c55e'
+  background: '#fafafa'
+fonts:
+  heading: Space Grotesk
+  body: IBM Plex Sans
+layout: hero + catalog grid + cta
+takeaway: Тёмная тема с одним неоновым акцентом
+scraped_at: '2026-10-05'

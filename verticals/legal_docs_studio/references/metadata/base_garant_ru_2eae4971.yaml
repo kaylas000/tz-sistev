@@ -1,0 +1,16 @@
+source: base.garant.ru
+url: https://base.garant.ru/example/base_garant_ru_legal/007
+type: legal
+style: modern
+industry: legal
+screenshot: screenshots/base_garant_ru_legal_007.png
+colors:
+  primary: '#0f172a'
+  accent: '#38bdf8'
+  background: '#020617'
+fonts:
+  heading: Manrope
+  body: Inter
+layout: hero + catalog grid + cta
+takeaway: Тёмная тема с одним неоновым акцентом
+scraped_at: '2026-10-05'

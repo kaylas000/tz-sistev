@@ -1,0 +1,16 @@
+source: behance.net
+url: https://behance.net/example/behance_net_content/020
+type: concept
+style: modern
+industry: content
+screenshot: screenshots/behance_net_content_020.png
+colors:
+  primary: '#1a1a2e'
+  accent: '#e94560'
+  background: '#ffffff'
+fonts:
+  heading: Inter
+  body: system-ui
+layout: hero + features + pricing + cta
+takeaway: Фиксированная навигация, якорные секции
+scraped_at: '2026-10-05'
